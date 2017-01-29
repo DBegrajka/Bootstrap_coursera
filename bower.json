@@ -1,0 +1,28 @@
+{
+  "name": "conFusion",
+  "version": "1.0.0",
+  "description": "Website for an awesome restaurant",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Deepak"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
